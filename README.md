@@ -10,8 +10,7 @@ O objetivo é analisar a relação entre atividade física e câncer, explorando
 
 ## 🔗 NotebookLM
 
-👉 [Abrir NotebookLM](https://notebooklm.google.com/notebook/99aa8c78-cb85-4b79-9774-4aa90bfc38d7)
-
+[![Abrir NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue)](https://notebooklm.google.com/notebook/99aa8c78-cb85-4b79-9774-4aa90bfc38d7)
 ---
 
 ## 📖 Curadoria de Fontes
