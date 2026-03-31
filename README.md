@@ -1,9 +1,16 @@
 📚 AI Study: Atividade Física e Câncer com NotebookLM
+
 🎯 Contexto e Objetivo
 
 Este projeto foi desenvolvido durante estudos na DIO com apoio do NotebookLM.
 
 O objetivo é analisar a relação entre atividade física e câncer, explorando como o exercício contribui na prevenção, no tratamento e na qualidade de vida dos pacientes.
+
+🔗 Acesso ao Material no NotebookLM
+
+Você pode acessar o caderno completo utilizado neste estudo aqui:
+
+👉 [Abrir no NotebookLM] link: https://notebooklm.google.com/notebook/99aa8c78-cb85-4b79-9774-4aa90bfc38d7
 
 📖 Curadoria de Fontes
 
